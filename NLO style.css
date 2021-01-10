@@ -1,0 +1,63 @@
+@charset "UFT-8";
+body {
+  background-image: url(imgFile/BG.jpg);
+}
+
+h1 {
+  color: black;
+  font-size: 50px;
+  width: 300px;
+  height: 100px;
+  background-color: red;
+  background-size: 70px;
+  font-family: 'Noto Serif JP', serif;
+}
+
+h2{
+  color: black;
+  font-size: 30px;
+  background-color: red;
+  font-family: 'Noto Serif JP', serif;
+  width: 850px
+}
+
+.KZ  {
+  font-size: 30px;
+  width: 700px
+}
+.NLO  {
+  font-size: 30px;
+  width: 700px
+}
+.Tenp  {
+  font-size: 30px;
+  width: 700px
+}
+.tuho {
+  font-size: 30px;
+  width: 80px
+}
+.infomation {
+  width: 300px
+}
+
+p{
+  color: black;
+  font-size: 15px;
+  background-color: red;
+  font-family: 'Noto Serif JP', serif;
+}
+
+
+
+h2 {
+  color: black;
+  background-color: red;
+  font-family: 'Noto Serif JP', serif;
+}
+
+h3 {
+  color: black;
+  background-color: red;
+  font-family: 'Noto Serif JP', serif;
+}
